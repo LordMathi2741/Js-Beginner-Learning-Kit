@@ -1,3 +1,4 @@
+
 //DRY: Don't Repeat Yourself
 class Animal {
     drink(arg){
@@ -15,6 +16,7 @@ class Dog extends Animal{
 class Cat extends Animal{
 
 }
+
 
 const dog = new Dog();
 const cat = new Cat();
